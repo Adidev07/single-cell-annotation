@@ -1,0 +1,19 @@
+{
+  "project": "Donor-Held-Out Single-Cell Annotation",
+  "test_accuracy": 0.99375,
+  "test_macro_f1": 0.9936415659914615,
+  "majority_accuracy": 0.34375,
+  "train_donors": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "test_donors": [
+    6,
+    7
+  ],
+  "genes": "GENE_00 through GENE_29; fictional marker programs"
+}
